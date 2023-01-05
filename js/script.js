@@ -24,7 +24,6 @@
 // const user = "ivan";
 
 // alert(`hello, ${user}`);
-
 // let incr = 10,
 //     decr = 10;
 // incr++;
