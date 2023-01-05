@@ -25,11 +25,10 @@
 
 // alert(`hello, ${user}`);
 
-
 // let incr = 10,
 //     decr = 10;
 // incr++;
 // decr--;
 // console.log (incr, decr);
 
-console.log(5%2, 56%2, 8%2);
+console.log(5%2, 4746%2, 8%2);
