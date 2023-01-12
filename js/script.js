@@ -79,7 +79,7 @@ for (let i = 0; i < 2; i++) {
 
     personalMovieDB.movies[a] = b;
 
-    if (a != null && b!=null&& a != '' && b != '' && a.length < 50) {
+    if (a != null && b != null && a != '' && b != '' && a.length < 50) {
         personalMovieDB.movies[a] = b;
         console.log('done');
     } else {
